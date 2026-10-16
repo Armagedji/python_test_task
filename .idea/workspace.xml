@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7c7fc03-f372-440a-ae36-253f176fd306" name="Changes" comment="создал эндпоинты, создал методы для CRUD">
-      <change afterPath="$PROJECT_DIR$/app/scripts/load_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/posts.csv" afterDir="false" />
+    <list default="true" id="c7c7fc03-f372-440a-ae36-253f176fd306" name="Changes" comment="Добавил функцию загрузки данных из csv-файла, добавил csv-файл">
+      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1792132333283</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Добавил функцию загрузки данных из csv-файла, добавил csv-файл">
+      <option name="closed" value="true" />
+      <created>1792132637908</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1792132637908</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +132,7 @@
     <MESSAGE value="выбрал и установил нужные зависимости в uv" />
     <MESSAGE value="созданы конфигурационные файлы, файлы документов и поиска elasticsearch" />
     <MESSAGE value="создал эндпоинты, создал методы для CRUD" />
-    <option name="LAST_COMMIT_MESSAGE" value="создал эндпоинты, создал методы для CRUD" />
+    <MESSAGE value="Добавил функцию загрузки данных из csv-файла, добавил csv-файл" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил функцию загрузки данных из csv-файла, добавил csv-файл" />
   </component>
 </project>

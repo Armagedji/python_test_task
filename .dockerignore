@@ -1,0 +1,14 @@
+__pycache__
+*.pyc
+*.pyo
+.venv
+venv
+.git
+.gitignore
+.pytest_cache
+.mypy_cache
+.ruff_cache
+tests/
+README.md
+docs.json
+posts.csv
