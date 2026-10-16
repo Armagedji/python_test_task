@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7c7fc03-f372-440a-ae36-253f176fd306" name="Changes" comment="созданы конфигурационные файлы, файлы документов и поиска elasticsearch">
-      <change afterPath="$PROJECT_DIR$/app/api/v1/endpoints.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/crud/document.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/main.py" afterDir="false" />
+    <list default="true" id="c7c7fc03-f372-440a-ae36-253f176fd306" name="Changes" comment="создал эндпоинты, создал методы для CRUD">
+      <change afterPath="$PROJECT_DIR$/app/scripts/load_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posts.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +50,10 @@
       <recent name="M:\Work\PycharmProjects\python_test_task\app\elastic" />
       <recent name="M:\Work\PycharmProjects\python_test_task\app\db" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="M:\Work\PycharmProjects\python_test_task" />
+      <recent name="M:\Work\PycharmProjects\python_test_task\app" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -93,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1792131661194</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="создал эндпоинты, создал методы для CRUD">
+      <option name="closed" value="true" />
+      <created>1792132333283</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1792132333283</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,6 +121,7 @@
     <MESSAGE value="создал базовую структуру проекта" />
     <MESSAGE value="выбрал и установил нужные зависимости в uv" />
     <MESSAGE value="созданы конфигурационные файлы, файлы документов и поиска elasticsearch" />
-    <option name="LAST_COMMIT_MESSAGE" value="созданы конфигурационные файлы, файлы документов и поиска elasticsearch" />
+    <MESSAGE value="создал эндпоинты, создал методы для CRUD" />
+    <option name="LAST_COMMIT_MESSAGE" value="создал эндпоинты, создал методы для CRUD" />
   </component>
 </project>
