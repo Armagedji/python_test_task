@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7c7fc03-f372-440a-ae36-253f176fd306" name="Changes" comment="правка багов с версиями">
-      <change afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
+    <list default="true" id="c7c7fc03-f372-440a-ae36-253f176fd306" name="Changes" comment="добавил conftest.py, поправил тесты">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1792135503373</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="добавил conftest.py, поправил тесты">
+      <option name="closed" value="true" />
+      <created>1792135765302</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1792135765302</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,6 +166,7 @@
     <MESSAGE value="Добавил файлы Docker" />
     <MESSAGE value="Добавил тесты API" />
     <MESSAGE value="правка багов с версиями" />
-    <option name="LAST_COMMIT_MESSAGE" value="правка багов с версиями" />
+    <MESSAGE value="добавил conftest.py, поправил тесты" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавил conftest.py, поправил тесты" />
   </component>
 </project>
