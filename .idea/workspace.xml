@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7c7fc03-f372-440a-ae36-253f176fd306" name="Changes" comment="Добавил функцию загрузки данных из csv-файла, добавил csv-файл">
-      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+    <list default="true" id="c7c7fc03-f372-440a-ae36-253f176fd306" name="Changes" comment="Добавил тесты API">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uv.lock" beforeDir="false" afterPath="$PROJECT_DIR$/uv.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +113,23 @@
       <option name="project" value="LOCAL" />
       <updated>1792132637908</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Добавил файлы Docker">
+      <option name="closed" value="true" />
+      <created>1792132744304</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1792132744304</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Добавил тесты API">
+      <option name="closed" value="true" />
+      <created>1792132890794</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1792132890794</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,6 +149,8 @@
     <MESSAGE value="созданы конфигурационные файлы, файлы документов и поиска elasticsearch" />
     <MESSAGE value="создал эндпоинты, создал методы для CRUD" />
     <MESSAGE value="Добавил функцию загрузки данных из csv-файла, добавил csv-файл" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавил функцию загрузки данных из csv-файла, добавил csv-файл" />
+    <MESSAGE value="Добавил файлы Docker" />
+    <MESSAGE value="Добавил тесты API" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил тесты API" />
   </component>
 </project>
